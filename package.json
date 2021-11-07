@@ -1,0 +1,12 @@
+{
+  "name": "promise-a-plus-implementation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "promises-aplus-tests": "^2.1.2"
+  },
+  "scripts": {
+    "test": "promises-aplus-tests adapter.js"
+  }
+}
